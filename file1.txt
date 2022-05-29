@@ -9,3 +9,8 @@ This commit is from main branch
 
 
 Main has restriction, I am trying to commit to main directly
+
+This commit is from branchC
+
+Add something in branchC this time...
+
