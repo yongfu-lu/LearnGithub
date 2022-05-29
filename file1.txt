@@ -6,3 +6,6 @@ This is a testing file for learning github and git.
         one more commit from local branchB to remote branchB
 
 This commit is from main branch
+
+
+Main has restriction, I am trying to commit to main directly
